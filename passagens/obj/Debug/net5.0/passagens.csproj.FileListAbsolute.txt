@@ -1,0 +1,16 @@
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\passagens.exe
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\passagens.deps.json
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\passagens.runtimeconfig.json
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\passagens.runtimeconfig.dev.json
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\passagens.dll
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\ref\passagens.dll
+C:\Users\Thais\Documents\Estudos\passagens\passagens\bin\Debug\net5.0\passagens.pdb
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.AssemblyInfo.cs
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.dll
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\ref\passagens.dll
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.pdb
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.genruntimeconfig.cache
+C:\Users\Thais\Documents\Estudos\passagens\passagens\obj\Debug\net5.0\passagens.csproj.AssemblyReference.cache
